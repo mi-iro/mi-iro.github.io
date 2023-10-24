@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in CS, [UESTC](https://www.uestc.edu.cn/), 2019-2023
+* M.S. in CS, [Peking University](https://www.pku.edu.cn/), 2023-now
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
-Work experience
+<!-- Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
